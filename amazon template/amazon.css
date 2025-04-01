@@ -1,0 +1,1920 @@
+*{
+
+margin: 0%;
+padding: 0%;
+}
+
+.main{
+
+height: 80px;
+width: 100%;
+background-color: black;
+display: flex;
+align-items: center;
+
+}
+
+.temp1{
+
+height: 30px;
+width: 100px;
+margin-left: 30px;
+
+
+}
+
+.temp2{
+color: white;
+margin-left: 20px;
+font-size: 25px;
+
+}
+
+.temp3{
+
+  color: grey;
+  font-size: 15px;
+}
+
+.temp4{
+  color: white;
+  font-size: 15px;
+}
+
+
+.temp5{
+
+height: 43px;
+width: 60px;
+font-size: 20px;
+margin-left: 30px;
+background-color: rgb(182, 179, 179);
+cursor: pointer;
+}
+
+
+.temp6{
+
+height: 40px;
+width: 600px;
+background-color: white;
+
+}
+
+.temp7{
+
+height: 38px;
+width: 600px;
+font-size: 15px;
+}
+
+.temp8{
+background-color:rgb(222, 197, 72);
+color: white;
+height: 44px;
+width: 60px;
+font-size: 20px;
+cursor: pointer;
+
+}
+
+.temp9{
+
+color: white;
+margin-left: 30px;
+font-size: 15px;
+
+
+}
+
+.temp10{
+
+font-size: 20px;
+
+}
+
+.temp11{
+font-size: 15px;
+color: white;
+margin-left: 40px;
+
+
+}
+
+.temp12{
+font-size: 20px;
+
+}
+
+.temp13{
+
+font-size: 20px;
+color: white;
+margin-left: 40px;
+
+}
+
+.temp14{
+font-size: 40px;
+
+
+}
+
+.main2{
+
+height: 40px;
+width: 100%;
+background-color: rgb(0, 64, 128);
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+color: white;
+}
+
+.temp15{
+
+font-size:15px;
+margin-left: 20px;
+border: hidden;
+background: rgb(0, 64, 128);
+color: white;
+cursor: pointer;
+animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+}
+
+.temp15:hover{
+  font-size:15px;
+  margin-left: 20px;
+  border:1px solid white;
+  background: rgb(0, 64, 128);
+  color: white;
+  cursor: pointer
+}
+
+.temp16{
+  font-size: 15px;
+margin-left: 20px;
+color: white;
+cursor: pointer;
+animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+}
+
+.temp16:hover{
+
+  font-size: 20px;
+  margin-left: 20px;
+  color: white;
+  cursor: pointer;
+  border: 1px solid white;
+
+}
+
+.temp17{
+  cursor: pointer;
+  animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+  
+
+}
+
+.temp17:hover{
+border: 1px solid white;
+
+}
+
+
+.mian3>img{
+
+  margin-left: 20px;
+ 
+}
+
+.temp18{
+
+margin-left: 20px;
+}
+
+.mian4>img{
+
+height: 400px;
+width: 350px;
+margin-left: 20px;
+cursor: pointer;
+animation:slit-in-diagonal-2 2s ease-out both
+
+
+}
+
+.main5{
+
+border: 10px solid rgb(226, 223, 223);
+  margin-left: 20px;
+  position: relative;
+  
+
+}
+
+.temp19{
+margin-left: 20px;
+
+}
+
+.main5>img{
+
+height: 250px;
+width: 220px;
+margin-left: 20px;
+cursor: pointer;
+}
+
+.temp20{
+ margin-left: 70px;
+ font-size: 20px;
+
+}
+
+.temp21{
+  font-size: 20px;
+  margin-left: 120px;
+}
+
+.temp22{
+  font-size: 20px;
+margin-left: 140px;
+}
+
+.temp23{
+font-size: 20px;
+margin-left: 150px;
+}
+
+.temp24{
+font-size: 20px;
+margin-left: 160px;
+
+}
+
+.temp25{
+font-size: 20px;
+margin-left: 160px;
+}
+
+.main6{
+
+border: 10px solid rgb(218, 217, 217);
+margin-left: 20px;
+position: relative;
+}
+
+.temp26{
+  margin-left: 20px;
+}
+
+.main6>img{
+height: 250px;
+width: 250px;
+margin-left: 20px;
+cursor: pointer;
+}
+
+.temp27{
+
+  font-size: 20px;
+ position: absolute;
+ top: 335px;
+ left: 640px;
+}
+
+.temp28{
+font-size: 20px;
+position: absolute;
+top: 335px;
+left: 900px;
+}
+
+.temp29{
+
+font-size: 20px;
+position: absolute;
+top: 335px;
+left: 80px;
+}
+
+.temp30{
+font-size: 20px;
+position: absolute;
+top: 335px;
+left: 350px;
+}
+
+.main7{
+border: 10px solid rgb(225, 222, 222);
+
+margin-left: 20px;
+cursor: pointer;
+position: relative;
+}
+
+.main7>img{
+
+height: 250px;
+width: 250px;
+margin-left: 20px;
+
+}
+
+.temp31{
+
+margin-left: 20px;
+
+}
+
+.temp32{
+
+font-size: 20px;
+position: absolute;
+top: 350px;
+left: 80px;
+}
+
+.temp33{
+
+font-size: 20px;
+position: absolute;
+top: 350px;
+left: 350px;
+}
+.temp34{
+font-size: 20px;
+position: absolute;
+left: 600px;
+top: 350px;
+}
+
+.temp35{
+font-size: 20px;
+position: absolute;
+left: 870px;
+top:350px ;
+
+}
+
+.temp36{
+
+background-color: rgb(193, 192, 192);
+height: 50px;
+width: 100%;
+color: black;
+cursor: pointer;
+font-size: 18px;
+}
+
+.main9{
+
+height: 300px;
+width: 100%;
+background: rgb(19, 71, 123);
+position: relative;
+border-bottom: 1px solid rgb(166, 164, 164);
+}
+
+.temp37{
+
+color: white;
+font-size: 20px;
+position: absolute;
+top: 50px;
+left: 200px;
+
+}
+
+.temp38{
+
+color: grey;
+position: absolute;
+top: 80px;
+left: 200px;
+font-size: 18px;
+
+
+}
+
+.temp39{
+color: grey;
+position: absolute;
+top: 110px;
+left: 200px;
+font-size: 18px;
+}
+
+.temp40{
+
+color: grey;
+position: absolute;
+top: 140px;
+left: 200px;
+font-size: 18px;
+}
+
+.temp41{
+font-size: 20px;
+color: white;
+position: absolute;
+top: 50px;
+left: 500px;
+font-size: 18px;
+}
+
+.temp42{
+
+color: grey;
+position: absolute;
+top:80px ;
+left: 500px;
+font-size: 18px;
+}
+
+.temp43{
+
+color: grey;
+position: absolute;
+top: 110px;
+left: 500px;
+font-size: 18px;
+}
+
+.temp44{
+
+color: grey;
+position: absolute;
+top: 140px;
+left: 500px ;
+font-size: 18px;
+}
+
+.temp45{
+  color: grey;
+  position: absolute;
+  top: 170px;
+  left: 200px;
+font-size: 18px;
+
+}
+
+.temp46{
+  color: grey;
+  position: absolute;
+  top: 170px;
+  left: 500px;
+font-size: 18px; 
+}
+
+.temp47{
+  font-size: 20px;
+color: white;
+position: absolute;
+top: 50px;
+left: 800px;
+font-size: 18px;
+}
+
+.temp48{
+  color: grey;
+  position: absolute;
+  top: 80px;
+  left: 800px;
+font-size: 18px;
+}
+
+.temp49{
+  color: grey;
+  position: absolute;
+  top: 110px;
+  left: 800px;
+font-size: 18px;
+
+}
+.temp50{
+   color: grey;
+  position: absolute;
+  top: 140px;
+  left: 800px;
+font-size: 18px;}
+.temp51{ 
+  color: grey;
+  position: absolute;
+  top: 170px;
+  left: 800px;
+font-size: 18px;}
+.temp52{
+   color: grey;
+  position: absolute;
+  top: 200px;
+  left: 800px;
+font-size: 18px;}
+.temp53{ 
+  color: grey;
+  position: absolute;
+  top: 230px;
+  left: 800px;
+font-size: 18px;}
+
+.temp54{
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 50px;
+  left: 1150px;
+  font-size: 18px;
+}
+
+.temp55{
+  color: grey;
+  position: absolute;
+  top: 80px;
+  left: 1150px;
+font-size: 18px;
+}
+.temp56{
+  color: grey;
+  position: absolute;
+  top: 110px;
+  left: 1150px;
+font-size: 18px;
+}
+
+.temp57{
+  color: grey;
+  position: absolute;
+  top: 140px;
+  left: 1150px;
+font-size: 18px;
+}
+.temp58{
+  color: grey;
+  position: absolute;
+  top: 170px;
+  left: 1150px;
+font-size: 18px;
+}
+.temp59{
+  color: grey;
+  position: absolute;
+  top: 200px;
+  left: 1150px;
+font-size: 18px;
+}
+.temp60{
+  color: grey;
+  position: absolute;
+  top: 230px;
+  left: 1150px;
+font-size: 18px;
+}
+.temp61{
+  color: grey;
+  position: absolute;
+  top: 260px;
+  left: 1150px;
+font-size: 18px;
+}
+
+.main10{
+
+height: 150px;
+width: 100%;
+background-color: rgb(19, 71, 123);
+position: relative;
+}
+
+.temp62{
+
+height: 50px;
+width: 100px;
+position: absolute;
+top: 50px;
+left: 600px;
+
+}
+
+
+.temp63{
+font-size: 20px;
+position: absolute;
+top: 55px;
+left: 750px;
+background-color: transparent;
+color: white;
+border: 2px solid white;
+}
+
+
+.temp64{
+
+  font-size: 20px;
+position: absolute;
+top: 55px;
+left: 830px;
+color: white;
+border: 2px solid white;
+
+}
+
+.temp65{
+
+  height: 15px;
+  width: 20px;
+  }
+  
+  .main11{
+height: 200px;
+width: 100%;
+background-color: black;
+color: white;
+position: relative;
+
+  }
+
+  .temp66{
+    position: absolute;
+top: 50px;
+left: 600px;
+
+  }
+
+  .temp67{
+
+    position: absolute;
+top: 90px;
+left: 630px;
+  }
+
+
+  @media (max-width:900px) {
+
+    .head,body{
+
+overflow-x: hidden;
+
+    }
+
+
+
+    .main{
+
+      height: 80px;
+      width: 100%;
+      background-color: black;
+      display: flex;
+      align-items: center;
+      
+      }
+      
+      .temp1{
+
+        height: 10px;
+        width: 50px;
+        margin-left: 30px;
+        
+        
+        }
+
+        .temp2{
+          color: white;
+          margin-left: 30px;
+          font-size: 15px;
+          
+          }
+          
+          .temp3{
+          
+            color: grey;
+            font-size: 10px;
+          }
+          
+          .temp4{
+            color: white;
+            font-size: 10px;
+          }
+          
+          
+          .temp5{
+          
+          height: 40px;
+          width: 40px;
+          font-size: 10px;
+          margin-left: 25px;
+          background-color: rgb(182, 179, 179);
+          cursor: pointer;
+          }
+          
+          
+          .temp6{
+          
+          height: 40px;
+          width: 200px;
+          background-color: white;
+          
+          }
+          
+          .temp7{
+          
+          height: 38px;
+          width: 200px;
+          font-size: 15px;
+          }
+          
+          .temp8{
+          background-color:rgb(222, 197, 72);
+          color: white;
+          height: 44px;
+          width: 60px;
+          font-size: 15px;
+          cursor: pointer;
+          
+          }
+          
+          .temp9{
+          
+          color: white;
+          margin-left: 30px;
+          font-size: 10px;
+          font-weight: 100;
+          
+          
+          }
+          
+          .temp10{
+          
+          font-size: 10px;
+          font-weight: 100;
+          }
+          
+          .temp11{
+          font-size: 10px;
+          color: white;
+          margin-left: 40px;
+          font-weight: 100;
+          
+          }
+          
+          .temp12{
+          font-size: 10px;
+          font-weight: 100;
+          }
+          
+          .temp13{
+          
+          font-size: 10px;
+          color: white;
+          margin-left: 40px;
+          font-weight: 100;
+          }
+          
+          .temp14{
+          font-size: 20px;
+          
+          
+          }
+          
+          .main2{
+          
+          height: 40px;
+          width: 100%;
+          background-color: rgb(0, 64, 128);
+          display: flex;
+          align-items: center;
+          justify-content: space-evenly;
+          color: white;
+          }
+          
+          .temp15{
+          
+          font-size:10px;
+          margin-left: 10px;
+          border: hidden;
+          background: rgb(0, 64, 128);
+          color: white;
+          cursor: pointer;
+          animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+          }
+          
+          .temp15:hover{
+            font-size:10px;
+            margin-left: 10px;
+            border:1px solid white;
+            background: rgb(0, 64, 128);
+            color: white;
+            cursor: pointer
+          }
+          
+          .temp16{
+            font-size: 10px;
+          margin-left: 10px;
+          color: white;
+          cursor: pointer;
+          animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+          }
+          
+          .temp16:hover{
+          
+            font-size: 10px;
+            margin-left: 10px;
+            color: white;
+            cursor: pointer;
+            border: 1px solid white;
+          
+          }
+          
+          .temp17{
+            cursor: pointer;
+            margin-left: 10px;
+            font-size: 10px;
+            animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+            
+          
+          }
+          
+          .temp17:hover{
+          border: 1px solid white;
+          
+          }
+          
+          
+          .mian3>img{
+          
+            margin-left: 10px;
+            width: 100%;
+           
+          }
+          
+          .temp18{
+          
+          margin-left: 20px;
+          }
+          
+          .mian4>img{
+          
+          height: 400px;
+          width: 350px;
+          margin-left: 20px;
+          cursor: pointer;
+          animation:slit-in-diagonal-2 2s ease-out both
+          
+          
+          }
+          
+          .main5{
+          
+          border: 10px solid rgb(226, 223, 223);
+            margin-left: 20px;
+            position: relative;
+            
+          
+          }
+          
+          .temp19{
+          margin-left: 20px;
+          
+          }
+          
+          .main5>img{
+          
+          height: 250px;
+          width: 220px;
+          margin-left: 20px;
+          cursor: pointer;
+          }
+          
+          .temp20{
+           margin-left: 70px;
+           font-size: 20px;
+          
+          }
+          
+          .temp21{
+            font-size: 20px;
+            margin-left: 120px;
+          }
+          
+          .temp22{
+            font-size: 20px;
+          margin-left: 140px;
+          }
+          
+          .temp23{
+          font-size: 20px;
+          position: absolute;
+          top: 325px;
+          left: -70px;
+
+        
+          }
+          
+          .temp24{
+          font-size: 20px;
+        position: absolute;
+        top: 325px;
+        left: 170px;
+          }
+          
+          .temp25{
+          font-size: 20px;
+   position: absolute;
+   top: 325px;
+          left: 420px;
+          }
+          
+          .main6{
+          
+          border: 10px solid rgb(218, 217, 217);
+          margin-left: 20px;
+          position: relative;
+          }
+          
+          .temp26{
+            margin-left: 20px;
+          }
+          
+          .main6>img{
+          height: 250px;
+          width: 250px;
+          margin-left: 20px;
+          cursor: pointer;
+      
+          }
+          
+          .temp27{
+          
+            font-size: 20px;
+            position: absolute;
+            top: 335px;
+            left: 640px;
+          }
+          
+          .temp28{
+          font-size: 20px;
+       position: absolute;
+       top: 335px;
+       left: 360px;
+          }
+          
+          .temp29{
+          
+          font-size: 20px;
+      
+          position: absolute;
+          top: 330px;
+          left: 100px;
+          
+          }
+          
+          .temp30{
+          font-size: 20px;
+          position: absolute;
+          left: 80px;
+          top: 590px;
+          }
+          
+          .main7{
+          border: 10px solid rgb(225, 222, 222);
+          
+          margin-left: 20px;
+          cursor: pointer;
+          position: relative;
+          }
+          
+          .main7>img{
+          
+          height: 250px;
+          width: 250px;
+          margin-left: 20px;
+          
+          }
+          
+          .temp31{
+          
+          margin-left: 20px;
+          
+          }
+          
+          .temp32{
+          
+          font-size: 20px;
+         top: 600px;
+          position: absolute;
+          
+          }
+          
+          .temp33{
+          
+          font-size: 20px;
+          top: 335px;
+          left: 620px;
+          position: absolute;
+         
+          }
+          .temp34{
+          font-size: 20px;
+          position: absolute;
+        top: 330px;
+         left: 80px;
+          }
+          
+          .temp35{
+          font-size: 20px;
+        position: absolute;
+top: 330px;
+
+left: 350px;
+
+          }
+          
+          .temp36{
+          
+          background-color: rgb(193, 192, 192);
+          height: 50px;
+          width: 100%;
+          color: black;
+          cursor: pointer;
+          font-size: 18px;
+          }
+          
+          .main9{
+          
+          height: 300px;
+          width: 100%;
+          background: rgb(19, 71, 123);
+          position: relative;
+          border-bottom: 1px solid rgb(166, 164, 164);
+          }
+          
+          .temp37{
+          
+          color: white;
+          font-size: 20px;
+          position: absolute;
+          top: 50px;
+          left: 80px;
+          
+          }
+          
+          .temp38{
+          
+          color: grey;
+          position: absolute;
+          top: 80px;
+          left: 80px;
+          font-size: 18px;
+          
+          
+          }
+          
+          .temp39{
+          color: grey;
+          position: absolute;
+          top: 110px;
+          left: 80px;
+          font-size: 18px;
+          }
+          
+          .temp40{
+          
+          color: grey;
+          position: absolute;
+          top: 140px;
+          left: 80px;
+          font-size: 18px;
+          }
+          
+          .temp41{
+          font-size: 20px;
+          color: white;
+          position: absolute;
+          top: 50px;
+          left: 330px;
+          font-size: 18px;
+          }
+          
+          .temp42{
+          
+          color: grey;
+          position: absolute;
+          top:80px ;
+          left: 330px;
+          font-size: 18px;
+          }
+          
+          .temp43{
+          
+          color: grey;
+          position: absolute;
+          top: 110px;
+          left: 330px;
+          font-size: 18px;
+          }
+          
+          .temp44{
+          
+          color: grey;
+          position: absolute;
+          top: 140px;
+          left: 330px ;
+          font-size: 18px;
+          }
+          
+          .temp45{
+            color: grey;
+            position: absolute;
+            top: 170px;
+            left: 80px;
+          font-size: 18px;
+          
+          }
+          
+          .temp46{
+            color: grey;
+            position: absolute;
+            top: 170px;
+            left: 330px;
+          font-size: 18px; 
+          }
+          
+          .temp47{
+            font-size: 20px;
+          color: white;
+          position: absolute;
+          top: 50px;
+          left: 550px;
+          font-size: 18px;
+          }
+          
+          .temp48{
+            color: grey;
+            position: absolute;
+            top: 80px;
+            left: 550px;
+          font-size: 18px;
+          }
+          
+          .temp49{
+            color: grey;
+            position: absolute;
+            top: 110px;
+            left: 550px;
+          font-size: 18px;
+          
+          }
+          .temp50{
+             color: grey;
+            position: absolute;
+            top: 140px;
+            left: 550px;
+          font-size: 18px;}
+          .temp51{ 
+            color: grey;
+            position: absolute;
+            top: 170px;
+            left: 550px;
+          font-size: 18px;}
+          .temp52{
+             color: grey;
+            position: absolute;
+            top: 200px;
+            left: 550px;
+          font-size: 18px;}
+          .temp53{ 
+            color: grey;
+            position: absolute;
+            top: 230px;
+            left: 550px;
+          font-size: 18px;}
+          
+          .temp54{
+            font-size: 20px;
+            color: white;
+            position: absolute;
+            top: 50px;
+            left: 1150px;
+            font-size: 18px;
+          }
+          
+          .temp55{
+            color: grey;
+            position: absolute;
+            top: 80px;
+            left: 1150px;
+          font-size: 18px;
+          }
+          .temp56{
+            color: grey;
+            position: absolute;
+            top: 110px;
+            left: 1150px;
+          font-size: 18px;
+          }
+          
+          .temp57{
+            color: grey;
+            position: absolute;
+            top: 140px;
+            left: 1150px;
+          font-size: 18px;
+          }
+          .temp58{
+            color: grey;
+            position: absolute;
+            top: 170px;
+            left: 1150px;
+          font-size: 18px;
+          }
+          .temp59{
+            color: grey;
+            position: absolute;
+            top: 200px;
+            left: 1150px;
+          font-size: 18px;
+          }
+          .temp60{
+            color: grey;
+            position: absolute;
+            top: 230px;
+            left: 1150px;
+          font-size: 18px;
+          }
+          .temp61{
+            color: grey;
+            position: absolute;
+            top: 260px;
+            left: 1150px;
+          font-size: 18px;
+          }
+          
+          .main10{
+          
+          height: 150px;
+          width: 100%;
+          background-color: rgb(19, 71, 123);
+          position: relative;
+          }
+          
+          .temp62{
+          
+          height: 50px;
+          width: 100px;
+          position: absolute;
+          top: 50px;
+          left: 200px;
+          
+          }
+          
+          
+          .temp63{
+          font-size: 20px;
+          position: absolute;
+          top: 55px;
+          left: 350px;
+          background-color: transparent;
+          color: white;
+          border: 2px solid white;
+          }
+          
+          
+          .temp64{
+          
+            font-size: 20px;
+          position: absolute;
+          top: 55px;
+          left: 430px;
+          color: white;
+          border: 2px solid white;
+          
+          }
+          
+          .temp65{
+          
+            height: 15px;
+            width: 20px;
+            }
+            
+            .main11{
+          height: 200px;
+          width: 100%;
+          background-color: black;
+          color: white;
+          position: relative;
+          
+            }
+          
+            .temp66{
+              position: absolute;
+          top: 50px;
+          left: 200px;
+          
+            }
+          
+            .temp67{
+          
+              position: absolute;
+          top: 90px;
+          left: 250px;
+            }
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+  @media (max-width:400px) {
+
+    .head,body{
+    overflow-x: hidden;
+    }
+      
+      
+      
+          .main{
+      
+            height: 80px;
+            width: 100%;
+            background-color: black;
+            display: flex;
+            align-items: center;
+            
+            }
+            
+            .temp1{
+      
+              height: 7px;
+              width: 30px;
+              margin-left: 10px;
+              
+              
+              }
+      
+              .temp2{
+                color: white;
+                margin-left: 10px;
+                font-size: 10px;
+                
+                }
+                
+                .temp3{
+                
+                  color: grey;
+                  font-size: 5px;
+                }
+                
+                .temp4{
+                  color: white;
+                  font-size: 7px;
+                }
+                
+                
+                .temp5{
+                
+                height: 33px;
+                width: 20px;
+                font-size: 10px;
+                margin-left: 10px;
+                background-color: rgb(182, 179, 179);
+                cursor: pointer;
+                margin-top: 2px;
+                
+                }
+                
+                
+                .temp6{
+                
+                height: 26px;
+                width: 100px;
+                background-color: white;
+                margin-top: -5px;
+                
+                }
+                
+                .temp7{
+                
+                height: 30px;
+                width: 100px;
+                font-size: 10px;
+                }
+                
+                .temp8{
+                background-color:rgb(222, 197, 72);
+                color: white;
+                height: 34px;
+                width: 20px;
+                font-size: 15px;
+                cursor: pointer;
+                margin-top: 4px;
+                
+                }
+                
+                .temp9{
+                
+                color: white;
+                margin-left: 10px;
+                font-size: 7px;
+                font-weight: 100;
+                
+                
+                }
+                
+                .temp10{
+                
+                font-size: 7px;
+                font-weight: 100;
+                }
+                
+                .temp11{
+                font-size: 7px;
+                color: white;
+                margin-left: 10px;
+                font-weight: 100;
+                
+                }
+                
+                .temp12{
+                font-size: 8px;
+                font-weight: 100;
+               
+                }
+                
+                .temp13{
+                
+                font-size: 10px;
+                color: white;
+                margin-left: 10px;
+                font-weight: 100;
+                }
+                
+                .temp14{
+                font-size: 10px;
+                
+                
+                }
+                
+                .main2{
+                
+                height: 40px;
+                width: 100%;
+                background-color: rgb(0, 64, 128);
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+                color: white;
+                }
+                
+                .temp15{
+                
+                font-size:5px;
+                margin-left: 5px;
+                border: hidden;
+                background: rgb(0, 64, 128);
+                color: white;
+                cursor: pointer;
+                animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+                }
+                
+                .temp15:hover{
+                  font-size:5px;
+                  margin-left: 5px;
+                  border:1px solid white;
+                  background: rgb(0, 64, 128);
+                  color: white;
+                  cursor: pointer
+                }
+                
+                .temp16{
+                  font-size: 5px;
+                margin-left: 5px;
+                color: white;
+                cursor: pointer;
+                animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+                }
+                
+                .temp16:hover{
+                
+                  font-size: 5px;
+                  margin-left: 5px;
+                  color: white;
+                  cursor: pointer;
+                  border: 1px solid white;
+                
+                }
+                
+                .temp17{
+                  cursor: pointer;
+                  margin-left: 5px;
+                  font-size: 5px;
+                  animation:text-focus-in 2s cubic-bezier(.55,.085,.68,.53) both
+                  
+                
+                }
+                
+                .temp17:hover{
+                border: 1px solid white;
+                
+                }
+                
+                
+                .mian3>img{
+                
+              margin-left: 0px;
+                  width: 100%;
+                 
+                }
+                
+                .temp18{
+                
+                margin-left: 10px;
+                font-size: 20px;
+                }
+                
+                .mian4>img{
+                
+                height: 150px;
+                width: 170px;
+                margin-left: 10px;
+              
+                cursor: pointer;
+                animation:slit-in-diagonal-2 2s ease-out both
+                
+                
+                
+                }
+                
+                .main5{
+                
+                border: 10px solid rgb(226, 223, 223);
+                  margin-left: 10px;
+                  position: relative;
+                  
+                
+                }
+                
+                .temp19{
+                margin-left: 10px;
+                font-size: 20px;
+                }
+                
+                .main5>img{
+                
+                height: 200px;
+                width: 150px;
+                margin-left: 20px;
+                cursor: pointer;
+                }
+                
+                .temp20{
+                position: absolute;
+                top: 290px;
+                left: -15px;
+                 font-size: 15px;
+                
+                }
+                
+                .temp21{
+                  font-size: 15px;
+                  position: absolute;
+                  top: 290px;
+                  left: 110px;
+
+            
+                }
+                
+                .temp22{
+                font-size: 15px;
+                position: absolute;
+            top: 490px;
+            left: -70px;
+          
+          }
+                
+                .temp23{
+                font-size: 15px;
+                position: absolute;
+                top: 490px;
+                left: 80px;
+      
+              
+                }
+                
+                .temp24{
+                font-size: 15px;
+              position: absolute;
+              top: 700px;
+              left: -90px;
+                }
+                
+                .temp25{
+                font-size: 15px;
+         position: absolute;
+         top: 700px;
+                left:80px;
+                }
+                
+                .main6{
+                
+                border: 10px solid rgb(218, 217, 217);
+                margin-left: 10px;
+                position: relative;
+                }
+                
+                .temp26{
+                  margin-left: 10px;
+                  font-size: 20px;
+                }
+                
+                .main6>img{
+                height: 200px;
+                width: 150px;
+                margin-left: 20px;
+                cursor: pointer;
+            
+                }
+                
+                .temp27{
+                
+                  font-size: 15px;
+             position: absolute;
+             top: 290px;
+             left: 230px;
+                }
+                
+                .temp28{
+                font-size: 15px;
+             position: absolute;
+             top: 290px;
+             left: 60px;
+                }
+                
+                .temp29{
+                
+                font-size: 15px;
+                position: absolute;
+                top:495px;
+                left: 220px;
+                
+                }
+                
+                .temp30{
+                font-size: 15px;
+                position: absolute;
+                left: 50px;
+                top: 495px;
+                }
+                
+                .main7{
+                border: 10px solid rgb(225, 222, 222);
+                
+                margin-left: 10px;
+                cursor: pointer;
+                position: relative;
+                }
+                
+                .main7>img{
+                
+                height: 200px;
+                width: 150px;
+                margin-left: 20px;
+                
+                }
+                
+                .temp31{
+                font-size: 20px;
+                margin-left: 10px;
+                
+                }
+                
+                .temp32{
+                
+                font-size: 15px;
+               top: 270px;
+               left: 50px;
+                position: absolute;
+                
+                }
+                
+                .temp33{
+                
+                font-size: 15px;
+                top: 270px;
+                left: 230px;
+
+                position: absolute;
+               
+                }
+                .temp34{
+                font-size: 15px;
+                position: absolute;
+              top: 480px;
+               left: 40px;
+                }
+                
+                .temp35{
+                font-size: 15px;
+              position: absolute;
+      top: 480px;
+      left: 220px;
+      
+                }
+                
+                .temp36{
+                
+                background-color: rgb(193, 192, 192);
+                height: 50px;
+                width: 100%;
+                color: black;
+                cursor: pointer;
+                font-size: 18px;
+                }
+                
+                .main9{
+                
+                height: 250px;
+                width: 100%;
+                background: rgb(19, 71, 123);
+                position: relative;
+                border-bottom: 1px solid rgb(166, 164, 164);
+                }
+                
+                .temp37{
+                
+                color: white;
+                font-size: 15px;
+                position: absolute;
+                top: 50px;
+                left: 50px;
+                
+                }
+                
+                .temp38{
+                
+                color: grey;
+                position: absolute;
+                top: 80px;
+                left: 50px;
+                font-size: 10px;
+                
+                
+                }
+                
+                .temp39{
+                color: grey;
+                position: absolute;
+                top: 110px;
+                left: 50px;
+                font-size: 10px;
+                }
+                
+                .temp40{
+                
+                color: grey;
+                position: absolute;
+                top: 140px;
+                left: 50px;
+                font-size: 10px;
+                }
+                
+                .temp41{
+                font-size: 15px;
+                color: white;
+                position: absolute;
+                top: 50px;
+                left: 200px;
+             
+                }
+                
+                .temp42{
+                
+                color: grey;
+                position: absolute;
+                top:80px ;
+                left: 200px;
+                font-size: 10px;
+                }
+                
+                .temp43{
+                
+                color: grey;
+                position: absolute;
+                top: 110px;
+                left: 200px;
+                font-size: 10px;
+                }
+                
+                .temp44{
+                
+                color: grey;
+                position: absolute;
+                top: 140px;
+                left: 200px ;
+                font-size: 10px;
+                }
+                
+                .temp45{
+                  color: grey;
+                  position: absolute;
+                  top: 170px;
+                  left: 50px;
+                font-size: 10px;
+                
+                }
+                
+                .temp46{
+                  color: grey;
+                  position: absolute;
+                  top: 170px;
+                  left: 200px;
+                font-size: 10px; 
+                }
+                
+               
+                .main10{
+                
+                height: 150px;
+                width: 100%;
+                background-color: rgb(19, 71, 123);
+                position: relative;
+                }
+                
+                .temp62{
+                
+                height: 50px;
+                width: 100px;
+                position: absolute;
+                top: 50px;
+                left: 40px;
+                
+                }
+                
+                
+                .temp63{
+                font-size: 20px;
+                position: absolute;
+                top: 55px;
+                left:190px;
+                background-color: transparent;
+                color: white;
+                border: 2px solid white;
+                }
+                
+                
+                .temp64{
+                
+                  font-size: 20px;
+                position: absolute;
+                top: 55px;
+                left:270px;
+                color: white;
+                border: 2px solid white;
+                
+                }
+                
+                .temp65{
+                
+                  height: 15px;
+                  width: 20px;
+                  }
+                  
+                  .main11{
+                height: 150px;
+                width: 100%;
+                background-color: black;
+                color: white;
+                position: relative;
+                
+                  }
+                
+                  .temp66{
+                    position: absolute;
+                top: 50px;
+                left: 40px;
+                font-size: 12px;
+                  }
+                
+                  .temp67{
+                
+                    position: absolute;
+                top: 90px;
+                left: 40px;
+                  }
+      
+      
+  }
+
+
+
+
+
+@keyframes text-focus-in{0%{filter:blur(12px);opacity:0}100%{filter:blur(0);opacity:1}}
+
+@keyframes slit-in-diagonal-2{0%{transform:translateZ(-800px) rotate3d(-1,1,0,-90deg);animation-timing-function:ease-in;opacity:0}54%{transform:translateZ(-160px) rotate3d(-1,1,0,-87deg);animation-timing-function:ease-in-out;opacity:1}100%{transform:translateZ(0) rotate3d(-1,1,0,0);animation-timing-function:ease-out}}
